@@ -8,9 +8,9 @@ by running a server from the inner folder react-tutorial-master, then accessing 
 to see my work:
 ```
 git clone https://github.com/heatherbooker/react-todo
-/n cd <wherever you put the clone of my work>
-/n npm install
-/n node server.js 
+cd <wherever you put the clone of my work>
+npm install
+node server.js 
 ```
 you can use whatever server you prefer, instead of `node server.js` - see README in react-tutorial-master for options.
 then open your browser and access localhost:3000 (or set up your server on a different port if 3000 is in use)
