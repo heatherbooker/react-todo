@@ -8,7 +8,7 @@ by running a server from the inner folder react-tutorial-master, then accessing 
 to see my work:
 ```
 git clone https://github.com/heatherbooker/react-todo
-cd <wherever you put the clone of my work>
+cd react-todo
 npm install
 node server.js 
 ```
