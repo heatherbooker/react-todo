@@ -1,9 +1,17 @@
-[{
-  "id": 1388534400000,
-  "author": "Pete Hunt",
-  "text": "Hey there, like wow!"
-}, {
-  "id": 1420070400000,
-  "author": "Paul O’Shannessy",
-  "text": "React is *great*!"
-}]
+[
+    {
+        "id": 1388534400000,
+        "author": "Pete Hunt",
+        "text": "Hey there, like wow!"
+    },
+    {
+        "id": 1420070400000,
+        "author": "Paul O’Shannessy",
+        "text": "React is *great*!"
+    },
+    {
+        "id": 1464143569917,
+        "author": "heather",
+        "text": "wow"
+    }
+]
